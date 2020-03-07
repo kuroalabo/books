@@ -16,6 +16,7 @@ https://www.itojuku.co.jp/book/newbook/shihou/nyumon.html
 ## 読むのにかかった時間
 
 
+- [伊藤真の憲法入門](./伊藤真の憲法入門/readme.md#読むのにかかった時間)
 - [伊藤真の民法入門](./伊藤真の民法入門/readme.md#読むのにかかった時間)
 
 
